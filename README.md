@@ -12,8 +12,6 @@ This web application is built to replicate the core functionalities of Google Sh
 
 ### Tech Stack
 - **Frontend:** React.js, TypeScript, Redux
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (or Firebase for real-time sync)
 - **Styling:** Tailwind CSS / Material UI
 - **Spreadsheet Handling:** Handsontable (for spreadsheet-like UI)
 
